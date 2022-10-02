@@ -21,8 +21,8 @@
     "vlucas/phpdotenv": "*"
   },
   "require": {
-    "php": "^8.0",
-    "laravel/laravel": "^9.*",
+    "php": ">=8.0",
+    "laravel/laravel": ">=9.0",
     "guzzlehttp/guzzle": "*"
   },
   "autoload": {
