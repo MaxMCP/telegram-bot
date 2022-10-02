@@ -19,7 +19,7 @@
   ],
   "require-dev": {
     "vlucas/phpdotenv": "*",
-    "laravel/laravel": ">=9.*"
+    "laravel/laravel": ">=9.0.0"
   },
   "require": {
     "php": ">=8.0",
