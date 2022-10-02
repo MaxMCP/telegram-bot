@@ -1,0 +1,33 @@
+{
+  "name": "maxmcp/telegram-bot",
+  "description": "",
+  "keywords": [
+    "telegram",
+    "bot",
+    "development"
+  ],
+  "version": "0.0.1",
+  "authors": [
+    {
+      "email": "romanko95.rk@gmail.com",
+      "name": "Roman Kozin"
+    },
+    {
+      "email": "45anonim54@gmail.com",
+      "name": "Maxim Babayev"
+    }
+  ],
+  "require-dev": {
+    "vlucas/phpdotenv": "*"
+  },
+  "require": {
+    "php": "^8.0",
+    "laravel/laravel": "9.*",
+    "guzzlehttp/guzzle": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "TelegramBot\\": "./src/"
+    }
+  }
+}
