@@ -18,11 +18,11 @@
     }
   ],
   "require-dev": {
-    "vlucas/phpdotenv": "*"
+    "vlucas/phpdotenv": "*",
+    "laravel/laravel": ">=9.*"
   },
   "require": {
     "php": ">=8.0",
-    "laravel/laravel": ">=9.0",
     "guzzlehttp/guzzle": "*"
   },
   "autoload": {
